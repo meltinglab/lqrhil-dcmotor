@@ -1,7 +1,6 @@
-# motor-control [![License](https://img.shields.io/badge/License-MIT-red.svg?longCache=true&style=flat-square)](LICENSE)
+# lqrhil-dcmotor [![License](https://img.shields.io/badge/License-MIT-red.svg?longCache=true&style=flat-square)](LICENSE)
 
-> Control of an electric motor made for an University Project
-
+> Linear Quadratic Regulator for DC motor after parameter estimation with NN.
 ## License
 
 Distributed under the [MIT](LICENSE) license.
